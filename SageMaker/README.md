@@ -5,6 +5,7 @@ If you want to train using your own training dataset, we provide sample notebook
 
 You need to provide training dataset in zipped file with following structures:
 
+```
 ROOT_FOLDER
     \_ CLASS_1
         \_ file_1
@@ -12,3 +13,4 @@ ROOT_FOLDER
         \_ file_n
     \_ CLASS_2
     \_ CLASS_N
+```
