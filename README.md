@@ -4,4 +4,4 @@ This Smart Document Identification application is a machine learning powered app
 
 ## Architecture
 
-[Architecture](images/swift-architecture.png)
+![Architecture](images/swift-architecture.png)
