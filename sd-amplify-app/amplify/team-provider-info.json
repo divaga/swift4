@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-swiftsmartdoc-dev-11534-authRole",
+      "UnauthRoleArn": "arn:aws:iam::687821209850:role/amplify-swiftsmartdoc-dev-11534-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::687821209850:role/amplify-swiftsmartdoc-dev-11534-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-swiftsmartdoc-dev-11534-deployment",
+      "UnauthRoleName": "amplify-swiftsmartdoc-dev-11534-unauthRole",
+      "StackName": "amplify-swiftsmartdoc-dev-11534",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:687821209850:stack/amplify-swiftsmartdoc-dev-11534/7a1428c0-87b3-11ec-a721-0690fff150e0",
+      "AmplifyAppId": "d2guvzrd8s1u8g"
+    },
+    "categories": {
+      "function": {
+        "DocumentIdentifyHandler": {
+          "deploymentBucketName": "amplify-swiftsmartdoc-dev-11534-deployment",
+          "s3Key": "amplify-builds/DocumentIdentifyHandler-534e5964724962744f50-build.zip"
+        }
+      },
+      "auth": {
+        "swiftsmartdoc133567d5": {}
+      }
+    }
+  }
+}

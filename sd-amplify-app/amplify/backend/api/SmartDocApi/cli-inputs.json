@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/identify": {
+      "name": "/identify",
+      "lambdaFunction": "DocumentIdentifyHandler",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
