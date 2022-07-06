@@ -32,6 +32,7 @@ eggs/
 .eggs/
 lib/
 !cdk/lib
+!document-text-classification/cdk/lib
 lib64/
 parts/
 sdist/
